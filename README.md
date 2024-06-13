@@ -2,5 +2,5 @@
 
 Me chamo **Giulia**
 
-->Estudo em uma escola integral
-->Estou aprendendo a utilizar a linguagem Markdown
+→Estudo em uma escola integral
+→Estou aprendendo a utilizar a linguagem Markdown
