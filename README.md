@@ -7,4 +7,4 @@ Me chamo **Giulia**
 - Estou aprendendo a utilizar a linguagem Markdown;
 - Irei usar o github com o intuito de organizar meus projetos.
 
-  ![](https://tenor.com/pt-BR/view/corinthians-gif-12849187)
+  ![](https://media.tenor.com/57mc9TmwqWEAAAAi/corinthians.gif)
