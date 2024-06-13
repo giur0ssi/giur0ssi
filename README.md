@@ -1,6 +1,6 @@
-## Olá, bem vindo ao meu perfil 👋
+## Olá, bem vindo ao meu perfil 🤍
 
-Me chamo Giulia Rossi 
+Me chamo **Giulia**
 
-->Estudo na escola Vitor Meireles, situada em Campinas, no estado de São Paulo.
-->Estou aprendendo a utilizar o 
+->Estudo em uma escola integral
+->Estou aprendendo a utilizar a linguagem Markdown
